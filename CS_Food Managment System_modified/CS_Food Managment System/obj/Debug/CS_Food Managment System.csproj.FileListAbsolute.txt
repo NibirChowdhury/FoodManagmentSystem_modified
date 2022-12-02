@@ -1,0 +1,60 @@
+G:\Visual Studio Project\CS_Food Managment System\CS_Food Managment System\bin\Debug\CS_Food Managment System.exe.config
+G:\Visual Studio Project\CS_Food Managment System\CS_Food Managment System\bin\Debug\CS_Food Managment System.exe
+G:\Visual Studio Project\CS_Food Managment System\CS_Food Managment System\bin\Debug\CS_Food Managment System.pdb
+G:\Visual Studio Project\CS_Food Managment System\CS_Food Managment System\obj\Debug\CS_Food_Managment_System.Form1.resources
+G:\Visual Studio Project\CS_Food Managment System\CS_Food Managment System\obj\Debug\CS_Food_Managment_System.Properties.Resources.resources
+G:\Visual Studio Project\CS_Food Managment System\CS_Food Managment System\obj\Debug\CS_Food Managment System.csproj.GenerateResource.Cache
+G:\Visual Studio Project\CS_Food Managment System\CS_Food Managment System\obj\Debug\CS_Food Managment System.exe
+G:\Visual Studio Project\CS_Food Managment System\CS_Food Managment System\obj\Debug\CS_Food Managment System.pdb
+G:\Visual Studio Project\CS_Food Managment System\CS_Food Managment System\obj\Debug\CS_Food Managment System.csprojResolveAssemblyReference.cache
+G:\Visual Studio Project\CS_Food Managment System\CS_Food Managment System\obj\Debug\CS_Food_Managment_System.Form2.resources
+I:\CS_Food Managment System\CS_Food Managment System\bin\Debug\CS_Food Managment System.exe.config
+I:\CS_Food Managment System\CS_Food Managment System\obj\Debug\CS_Food Managment System.exe
+I:\CS_Food Managment System\CS_Food Managment System\obj\Debug\CS_Food Managment System.pdb
+I:\CS_Food Managment System\CS_Food Managment System\bin\Debug\CS_Food Managment System.exe
+I:\CS_Food Managment System\CS_Food Managment System\bin\Debug\CS_Food Managment System.pdb
+I:\CS_Food Managment System\CS_Food Managment System\obj\Debug\CS_Food Managment System.csprojResolveAssemblyReference.cache
+I:\CS_Food Managment System\CS_Food Managment System\obj\Debug\CS_Food_Managment_System.Form1.resources
+I:\CS_Food Managment System\CS_Food Managment System\obj\Debug\CS_Food_Managment_System.Form2.resources
+I:\CS_Food Managment System\CS_Food Managment System\obj\Debug\CS_Food_Managment_System.Properties.Resources.resources
+I:\CS_Food Managment System\CS_Food Managment System\obj\Debug\CS_Food Managment System.csproj.GenerateResource.Cache
+C:\Users\Art - 10\Desktop\Nibir\CS_Food Managment System\CS_Food Managment System\bin\Debug\CS_Food Managment System.exe.config
+C:\Users\Art - 10\Desktop\Nibir\CS_Food Managment System\CS_Food Managment System\obj\Debug\CS_Food Managment System.exe
+C:\Users\Art - 10\Desktop\Nibir\CS_Food Managment System\CS_Food Managment System\obj\Debug\CS_Food Managment System.pdb
+C:\Users\Art - 10\Desktop\Nibir\CS_Food Managment System\CS_Food Managment System\obj\Debug\CS_Food Managment System.csprojResolveAssemblyReference.cache
+C:\Users\Art - 10\Desktop\Nibir\CS_Food Managment System\CS_Food Managment System\obj\Debug\CS_Food_Managment_System.Form1.resources
+C:\Users\Art - 10\Desktop\Nibir\CS_Food Managment System\CS_Food Managment System\obj\Debug\CS_Food_Managment_System.Form2.resources
+C:\Users\Art - 10\Desktop\Nibir\CS_Food Managment System\CS_Food Managment System\obj\Debug\CS_Food_Managment_System.Properties.Resources.resources
+C:\Users\Art - 10\Desktop\Nibir\CS_Food Managment System\CS_Food Managment System\obj\Debug\CS_Food Managment System.csproj.GenerateResource.Cache
+C:\Users\Art - 10\Desktop\Nibir\CS_Food Managment System\CS_Food Managment System\bin\Debug\CS_Food Managment System.exe
+C:\Users\Art - 10\Desktop\Nibir\CS_Food Managment System\CS_Food Managment System\bin\Debug\CS_Food Managment System.pdb
+C:\Users\Art - 10\Desktop\Nibir\CS_Food Managment System_modified\CS_Food Managment System\bin\Debug\CS_Food Managment System.exe.config
+C:\Users\Art - 10\Desktop\Nibir\CS_Food Managment System_modified\CS_Food Managment System\obj\Debug\CS_Food Managment System.exe
+C:\Users\Art - 10\Desktop\Nibir\CS_Food Managment System_modified\CS_Food Managment System\obj\Debug\CS_Food Managment System.pdb
+C:\Users\Art - 10\Desktop\Nibir\CS_Food Managment System_modified\CS_Food Managment System\bin\Debug\CS_Food Managment System.exe
+C:\Users\Art - 10\Desktop\Nibir\CS_Food Managment System_modified\CS_Food Managment System\bin\Debug\CS_Food Managment System.pdb
+C:\Users\Art - 10\Desktop\Nibir\CS_Food Managment System_modified\CS_Food Managment System\obj\Debug\CS_Food Managment System.csprojResolveAssemblyReference.cache
+C:\Users\Art - 10\Desktop\Nibir\CS_Food Managment System_modified\CS_Food Managment System\obj\Debug\CS_Food_Managment_System.Form1.resources
+C:\Users\Art - 10\Desktop\Nibir\CS_Food Managment System_modified\CS_Food Managment System\obj\Debug\CS_Food_Managment_System.Form2.resources
+C:\Users\Art - 10\Desktop\Nibir\CS_Food Managment System_modified\CS_Food Managment System\obj\Debug\CS_Food_Managment_System.Properties.Resources.resources
+C:\Users\Art - 10\Desktop\Nibir\CS_Food Managment System_modified\CS_Food Managment System\obj\Debug\CS_Food Managment System.csproj.GenerateResource.Cache
+I:\CS_Food Managment System_modified\CS_Food Managment System\bin\Debug\CS_Food Managment System.exe.config
+I:\CS_Food Managment System_modified\CS_Food Managment System\obj\Debug\CS_Food Managment System.exe
+I:\CS_Food Managment System_modified\CS_Food Managment System\obj\Debug\CS_Food Managment System.pdb
+I:\CS_Food Managment System_modified\CS_Food Managment System\bin\Debug\CS_Food Managment System.exe
+I:\CS_Food Managment System_modified\CS_Food Managment System\bin\Debug\CS_Food Managment System.pdb
+I:\CS_Food Managment System_modified\CS_Food Managment System\obj\Debug\CS_Food Managment System.csprojResolveAssemblyReference.cache
+I:\CS_Food Managment System_modified\CS_Food Managment System\obj\Debug\CS_Food_Managment_System.Form1.resources
+I:\CS_Food Managment System_modified\CS_Food Managment System\obj\Debug\CS_Food_Managment_System.Form2.resources
+I:\CS_Food Managment System_modified\CS_Food Managment System\obj\Debug\CS_Food_Managment_System.Properties.Resources.resources
+I:\CS_Food Managment System_modified\CS_Food Managment System\obj\Debug\CS_Food Managment System.csproj.GenerateResource.Cache
+J:\CS_Food Managment System_modified\CS_Food Managment System\bin\Debug\CS_Food Managment System.exe.config
+J:\CS_Food Managment System_modified\CS_Food Managment System\obj\Debug\CS_Food Managment System.exe
+J:\CS_Food Managment System_modified\CS_Food Managment System\obj\Debug\CS_Food Managment System.pdb
+J:\CS_Food Managment System_modified\CS_Food Managment System\bin\Debug\CS_Food Managment System.exe
+J:\CS_Food Managment System_modified\CS_Food Managment System\bin\Debug\CS_Food Managment System.pdb
+J:\CS_Food Managment System_modified\CS_Food Managment System\obj\Debug\CS_Food Managment System.csprojResolveAssemblyReference.cache
+J:\CS_Food Managment System_modified\CS_Food Managment System\obj\Debug\CS_Food_Managment_System.Form1.resources
+J:\CS_Food Managment System_modified\CS_Food Managment System\obj\Debug\CS_Food_Managment_System.Form2.resources
+J:\CS_Food Managment System_modified\CS_Food Managment System\obj\Debug\CS_Food_Managment_System.Properties.Resources.resources
+J:\CS_Food Managment System_modified\CS_Food Managment System\obj\Debug\CS_Food Managment System.csproj.GenerateResource.Cache
